@@ -4,10 +4,16 @@
 [paypal]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U3VK2SSVQWAPN
 [patreon]: https://www.patreon.com/adi1090x
 
+**`LAST Updated`** : `August 2023`
+
+> Unmaintained : Due to Termux not working properly on new Android versions and also Termux not getting maintained properly.
+
+---
+
 # Termux Style
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Maintained%3F-Yes-green?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Maintained%3F-No-red?style=for-the-badge">
   <img src="https://img.shields.io/github/license/adi1090x/termux-style?style=for-the-badge">
   <img src="https://img.shields.io/github/stars/adi1090x/termux-style?style=for-the-badge">
   <img src="https://img.shields.io/github/forks/adi1090x/termux-style?color=teal&style=for-the-badge">
@@ -25,19 +31,19 @@ Simple script to change color-schemes and fonts for [Termux](https://termux.com)
 Follow the steps below - 
 
 ```bash
-# go to home dir - 
+# Go to home dir - 
 cd $HOME
 
-# clone this repository - 
+# Clone this repository (use `gh repo clone adi1090x/termux-style` if you want to use the GitHub CLI)- 
 git clone https://github.com/adi1090x/termux-style
 
-# change to termux-style dir -
+# Change to termux-style dir -
 cd termux-style
 
-# to install it, run -
+# To install it, run -
 ./install
 
-# And Follow the steps, it'll be installed on your system.
+# And follow the steps, it'll be installed on your system.
 ```
 
 ### Run
